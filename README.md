@@ -1,6 +1,9 @@
-[![Build Status](https://travis-ci.org/antingshen/dart2es6.svg?branch=master)](https://travis-ci.org/antingshen/dart2es6)
+## Note: This project has been moved under [Angular](https://github.com/angular/dart2es6). This repository will no longer be updated.
 
-# dart2es6
+
+
+# dart2es6 [![Build Status](https://travis-ci.org/antingshen/dart2es6.svg?branch=master)](https://travis-ci.org/antingshen/dart2es6)
+
 
 _The Dart to ECMAScript 6 transpiler_
 
